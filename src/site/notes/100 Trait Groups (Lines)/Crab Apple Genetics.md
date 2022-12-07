@@ -10,11 +10,11 @@ There is no SkillCult Project Page on Crab Apple Genetics, but it is a mentioned
 
 | File                                                      | Lines                                                                                             | Generation |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------- |
-| [[200 Individual Apples/Chestnut Crab\|Chestnut Crab]] | <ul><li>Crab Apples</li><li>Strongly and Uniquely Flavored Apples</li></ul>                       | 0          |
-| [[200 Individual Apples/Maypole\|Maypole]]             | <ul><li>Red-Fleshed Apples</li><li>Crab Apples</li></ul>                                          | 0          |
 | [[200 Individual Apples/Wickson\|Wickson]]             | <ul><li>Crab Apples</li><li>Strongly and Uniquely Flavored Apples</li><li>Savory Apples</li></ul> | 0          |
-| [[200 Individual Apples/Cherub\|Cherub]]               | <ul><li>Crab Apples</li><li>Red-Fleshed Apples</li></ul>                                          | 1          |
+| [[200 Individual Apples/Maypole\|Maypole]]             | <ul><li>Red-Fleshed Apples</li><li>Crab Apples</li></ul>                                          | 0          |
+| [[200 Individual Apples/Chestnut Crab\|Chestnut Crab]] | <ul><li>Crab Apples</li><li>Strongly and Uniquely Flavored Apples</li></ul>                       | 0          |
 | [[200 Individual Apples/Sugarwood\|Sugarwood]]         | <ul><li>Crab Apples</li><li>Red-Fleshed Apples</li></ul>                                          | 1          |
+| [[200 Individual Apples/Cherub\|Cherub]]               | <ul><li>Crab Apples</li><li>Red-Fleshed Apples</li></ul>                                          | 1          |
 
 
 [[200 Individual Apples/Wickson\|Wickson]], [[Centennial Crab\|Centennial Crab]], [[Trailman Crab\|Trailman Crab]] are a few crabs with unique flavors and "effervescent" quality.

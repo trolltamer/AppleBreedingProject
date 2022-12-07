@@ -10,18 +10,18 @@
 
 | File                                                            | Lines                                                                                             | Generation |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------- |
-| [[200 Individual Apples/Cherry Cox\|Cherry Cox]]             | <ul><li>Strongly and Uniquely Flavored Apples</li></ul>                                           | 0          |
-| [[200 Individual Apples/Golden Russet\|Golden Russet]]       | <ul><li>Russet Apples</li><li>Strongly and Uniquely Flavored Apples</li></ul>                     | 0          |
-| [[200 Individual Apples/Chestnut Crab\|Chestnut Crab]]       | <ul><li>Crab Apples</li><li>Strongly and Uniquely Flavored Apples</li></ul>                       | 0          |
-| [[200 Individual Apples/Goldrush\|Goldrush]]                 | <ul><li>Strongly and Uniquely Flavored Apples</li></ul>                                           | 0          |
-| [[200 Individual Apples/King David\|King David]]             | <ul><li>Strongly and Uniquely Flavored Apples</li><li>Red Fleshed Apples</li></ul>                | 0          |
-| [[200 Individual Apples/Newtown Pippin\|Newtown Pippin]]     | <ul><li>Late-Hanging Apples</li><li>Strongly and Uniquely Flavored Apples</li></ul>               | 0          |
-| [[200 Individual Apples/Wickson\|Wickson]]                   | <ul><li>Crab Apples</li><li>Strongly and Uniquely Flavored Apples</li><li>Savory Apples</li></ul> | 0          |
 | [[200 Individual Apples/Sweet 16\|Sweet 16]]                 | <ul><li>Strongly and Uniquely Flavored Apples</li></ul>                                           | 0          |
-| [[200 Individual Apples/BITE ME!\|BITE ME!]]                 | <ul><li>Strongly and Uniquely Flavored Apples</li></ul>                                           | 1          |
-| [[200 Individual Apples/Cherry Crush\|Cherry Crush]]         | <ul><li>Red-Fleshed Apples</li><li>Strongly and Uniquely Flavored Apples</li></ul>                | 1          |
-| [[200 Individual Apples/Hard Candy Cider\|Hard Candy Cider]] | <ul><li>Strongly and Uniquely Flavored Apples</li></ul>                                           | 1          |
+| [[200 Individual Apples/Wickson\|Wickson]]                   | <ul><li>Crab Apples</li><li>Strongly and Uniquely Flavored Apples</li><li>Savory Apples</li></ul> | 0          |
+| [[200 Individual Apples/Newtown Pippin\|Newtown Pippin]]     | <ul><li>Late-Hanging Apples</li><li>Strongly and Uniquely Flavored Apples</li></ul>               | 0          |
+| [[200 Individual Apples/King David\|King David]]             | <ul><li>Strongly and Uniquely Flavored Apples</li><li>Red Fleshed Apples</li></ul>                | 0          |
+| [[200 Individual Apples/Goldrush\|Goldrush]]                 | <ul><li>Strongly and Uniquely Flavored Apples</li></ul>                                           | 0          |
+| [[200 Individual Apples/Chestnut Crab\|Chestnut Crab]]       | <ul><li>Crab Apples</li><li>Strongly and Uniquely Flavored Apples</li></ul>                       | 0          |
+| [[200 Individual Apples/Golden Russet\|Golden Russet]]       | <ul><li>Russet Apples</li><li>Strongly and Uniquely Flavored Apples</li></ul>                     | 0          |
+| [[200 Individual Apples/Cherry Cox\|Cherry Cox]]             | <ul><li>Strongly and Uniquely Flavored Apples</li></ul>                                           | 0          |
 | [[200 Individual Apples/Vanilla Pink\|Vanilla Pink]]         | <ul><li>Red-Fleshed Apples</li><li>Strongly and Uniquely Flavored Apples</li></ul>                | 1          |
+| [[200 Individual Apples/Hard Candy Cider\|Hard Candy Cider]] | <ul><li>Strongly and Uniquely Flavored Apples</li></ul>                                           | 1          |
+| [[200 Individual Apples/Cherry Crush\|Cherry Crush]]         | <ul><li>Red-Fleshed Apples</li><li>Strongly and Uniquely Flavored Apples</li></ul>                | 1          |
+| [[200 Individual Apples/BITE ME!\|BITE ME!]]                 | <ul><li>Strongly and Uniquely Flavored Apples</li></ul>                                           | 1          |
 
 
 # Related Links

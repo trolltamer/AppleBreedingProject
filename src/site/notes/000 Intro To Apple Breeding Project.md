@@ -5,7 +5,7 @@
 
 # Summary/Intro
 
-Project by [[Steven Edholm\|Steven Edholm]] of [[SkillCult\|SkillCult]] to breed novel apples for homegrowers. 
+Project by Steven Edholm of [SkillCult](https://skillcult.com) to breed novel apples for homegrowers. This site was created and is maintained by Paul Younger, using Obsidian, published via digital-garden. Site source is located in [apple breeding github repo](https://github.com/trolltamer/AppleBreedingProject)
 
 ## Trait Groups/Lines
 - [[100 Trait Groups (Lines)/Savory Apples\|Savory Apples]]

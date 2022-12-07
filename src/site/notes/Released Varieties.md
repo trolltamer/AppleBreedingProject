@@ -67,8 +67,3 @@ class WICK,GREN,RUBYT,KNGDV,WLSPRD,VIX,GLDRSH,CHRCOX,LDYWIL,BITEME,CHERUB,BLKSTR
 | [[200 Individual Apples/January Russet\|January Russet]]     | <ul><li>Late Hanging Apples</li><li>Russet Apples</li></ul>                        | 1               | <ul><li>Grenadine</li><li>UNK</li></ul>           |
 | [[200 Individual Apples/Vanilla Pink\|Vanilla Pink]]         | <ul><li>Red-Fleshed Apples</li><li>Strongly and Uniquely Flavored Apples</li></ul> | 1               | <ul><li>Grenadine</li><li>Goldrush</li></ul>      |
 | [[200 Individual Apples/Sugarwood\|Sugarwood]]               | <ul><li>Crab Apples</li><li>Red-Fleshed Apples</li></ul>                           | 1               | <ul><li>Grenadine</li><li>Wickson</li></ul>       |
-
-
-
-#### possible diagram line styles
-`basis`, `bump`, `linear`, `monotoneX`, `monotoneY`, `natural`, `step`, `stepAfter`, and `stepBefore`.

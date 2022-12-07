@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-intro-to-apple-breeding-project/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/000-intro-to-apple-breeding-project/","tags":"gardenEntry","dgShowLocalGraph":false}
 ---
 
 

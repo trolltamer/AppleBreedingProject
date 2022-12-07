@@ -7,8 +7,8 @@
 
 | File                                                                                          | Lines                                                       | Generation |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------- |
-| [[200 Individual Apples/Katherine (possibly mislabeled)\|Katherine (possibly mislabeled)]] | <ul><li>Late Hanging Apples</li></ul>                       | 0          |
 | [[200 Individual Apples/Lady Williams\|Lady Williams]]                                     | <ul><li>Late Hanging Apples</li></ul>                       | 0          |
+| [[200 Individual Apples/Katherine (possibly mislabeled)\|Katherine (possibly mislabeled)]] | <ul><li>Late Hanging Apples</li></ul>                       | 0          |
 | [[200 Individual Apples/January Russet\|January Russet]]                                   | <ul><li>Late Hanging Apples</li><li>Russet Apples</li></ul> | 1          |
 
 

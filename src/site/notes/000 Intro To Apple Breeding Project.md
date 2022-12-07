@@ -17,8 +17,6 @@ Project by [[Steven Edholm\|Steven Edholm]] of [[SkillCult\|SkillCult]] to breed
 
 ## Released Varieties
 
->[!todo]- Ice Princess? (Pending name change?)
-
 ### Table of Released Varieties 
 
 | File                                                            | Lines                                                                              | Generation (F#) | Parents                                           |
